@@ -1,6 +1,16 @@
 # Netflix  Gpt 
-created a react netflix gpt 
-and configured  tailwind css
+-created a react netflix gpt 
+-configured  tailwind css
+-header
+-login form
+-sign up form
+-form validation
+-useRef Hook
+-Firebase Setup
+-deploying using firebase
+-create authentication (user account)
+-implement SIgn in user Api
+-Created Redux Store with  userSlice
 
 # Features
 -login/Sign up Form 
