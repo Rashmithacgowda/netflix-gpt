@@ -11,6 +11,11 @@
 -create authentication (user account)
 -implement SIgn in user Api
 -Created Redux Store with  userSlice
+-implemented signout
+- hanled routes so that it chan't be changed ,amually
+- unsubscribe wto the onAuthStateChanged
+-registered imdb 
+-get data from imdb
 
 # Features
 -login/Sign up Form 
